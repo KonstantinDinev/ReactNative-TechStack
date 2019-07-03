@@ -1,6 +1,6 @@
 # ReactNative-TechStack
 
-Open Terminal and navigate to your project folders then pase the following: 
+Open your Terminal and navigate to your projects folders then paste the following: 
 
 ```
 git clone https://github.com/KonstantinDinev/ReactNative-TechStack.git
